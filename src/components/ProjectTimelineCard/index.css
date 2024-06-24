@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.project-image {
+  height: 500px;
+  width: 600px;
+}
+
+.project-header {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #171f46;
+}
+
+.project-subHeader {
+  font-family: Roboto;
+  font-weight: 500;
+  color: #1e293b;
+}
+
+.project-link {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #171f46;
+}
+
+.duration-container {
+  width: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.detail-container {
+  width: 100%;
+  padding: 10px;
+}

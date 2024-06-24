@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.app-container {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  padding: 50px;
+}
+
+.header {
+  font-family: Roboto;
+  color: #1e293b;
+}
+
+.sub-header {
+  font-family: Roboto;
+  color: #171f46;
+}
+
+.chrono-container {
+  height: 600px;
+  width: 400px;
+}
